@@ -3,6 +3,7 @@
    
 ## DATOS PERSONALES
 
+
 |nombre          |   Juan Avendaño   |
 |----------------|--------------------|
 |fecha de nacimiento|09/11/2002|
@@ -11,6 +12,7 @@
 |correo          |juan302415600@gmail.com| 
 
 ## ESTUDIOS
+
 |colegio        |  Juan eugenio cañavera  |
 |----------------|--------------------|
 |colegio          |   Jose castillo bolivar     |
