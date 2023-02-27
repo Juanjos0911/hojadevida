@@ -1,7 +1,8 @@
 # HOJA DE VIDA
-![foto](https://github.com/Juanjos0911/hojadevida/blob/main/WIN_20230227_08_11_05_Pro%20(2).jpg)
-
+<img src="https://github.com/Juanjos0911/hojadevida/blob/main/WIN_20230227_08_11_05_Pro%20(2).jpg">
+   
 ## DATOS PERSONALES
+
 |nombre          |   Juan Avendaño   |
 |----------------|--------------------|
 |fecha de nacimiento|09/11/2002|
